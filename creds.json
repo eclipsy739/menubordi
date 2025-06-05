@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "river-freedom-454912-e0",
+  "private_key_id": "95c5fdfb7b30e1092fa7e1b54329c063aad6a429",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEugIBADANBgkqhkiG9w0BAQEFAASCBKQwggSgAgEAAoIBAQCTb26dbHOOTm5A\n06A/+fndCuwQPYTOy2J0l7o6Vm9XYwiZWsfFWi4Im/hVqlmaN8402EQNCLeGeO9n\nFZzwfZHvALedsDcE/P7rTaW8KKMN2FAk/ObWH8LiFrYTVWxPbTpG0jFRekKHPKDR\nHxycLaPgcLo5T3VHxGjz8L7A6mjEER805pZe591tdq2rRG8z9E1MLul3J06ysExw\nfmUh137X7OxmTcDc0Z9F7UJpBjGXEqOXQI17Qv71BA98supKFEFYg/kk0y5GlgNC\nrAnjqB5Sns0Vros5VSiwO6WKMZbTqMN4ZKres3oPYjW0lEFRDX+u+oxe7Kmczoea\nATWcNQZ3AgMBAAECgf8IB98pQj8JHcrHLvi2SoPuItTVYvY8hklWnrQ/B3ZCBTEr\nmw1jFiLdjhMjevlKCaOxy2s+2Lq0pqjVdJ8JluncDK3zvkHroBUmLc11uWuaDlj5\n47A9a2EHfd/e2GTG0lb2vXxHkFMPYBNibSS+QKG6wqIM0nHYE1rAmYcfwha57JFx\nuj1BnzcUr2K0MGDZuzy8DlSDgH+xA90POPuZrnY/l31l6PpYKk0jNYbP6oWGF0rR\nqFTwiQrqhJcHvgA2gdKl9wdvfv+lgZ3OjZng22l8MsJbb0tz+X7asC6NdobVKA7w\naSAFlloym9SvJZdBclIgzYUKQ7kK9V7ZIMHOKXkCgYEAwvxylL1hMOsZwaFxtCIM\nzAy9BPmIMiiwvvoqO0ueKsgEilaEHNBn/YslUnQNWXzQFtcyYYuim8HcN9RBVYAK\nJw1mRGlOLVpmnURahHgOFP3/fdpaFupcoeUZbUgQcXsR5uVL8j3iWLikdG3QJMLS\nxp2G4l0yQ56em6O6GhHktY8CgYEAwZHg1AgGr+0+8SL4/7MTyklcTk21UhqSboQL\n/ivwyqPUteGwYSlm9Od3aO/nf3P8fhWhVP1JACPDx3mMjG8e3U395HSvAmJnxDJH\n/gJMSnExxYtnFXn2aUxZpxascH4F/oRd6tL5LXH5aEQd6lRtVcjOyG24oaAV+bYN\nFJsZPJkCgYBA8uIf1W04ZDdyHhrHy8fDeELGE3BgdNla4+2JTsjiqzmH8wWSq4DY\nHa9S5cFEm6Sc1xW7FE4X391A43zXxAydsYLtKr6VsNUZcZlNIsheCbU+8Kqtk2dD\nrhJoKmb/xeTSqnI/wIlS0D5HYgTBGfwnmHVDlZOWnpFqeoEVCfzK1QKBgGplu9Xw\nH3TeDCXRWlp6XVtoXYNw9USO9IQossrf7jgEO2xKBIAzmLLu89TLYUzOPTA0xXwI\nyPJ5tihT6Gxcu/Na5j6H4JaH7o+KL8YwDy0v8PKrgFrusgIJBJJyRRCERNk0escT\ndgGDz1p/bo4aIAryGK9UmBLHAq1CYwg7hHCpAoGAEs+phXI2YQ4rv0fW5hod6w6n\n/1UcFsFBVc8PL8e6EfDWjLoEop86zdf2rvyOvef7oXQry4mVq4lCLFk5yhHfsvBZ\nVBnBEr90iDmKM8ljAHdSmmFrSlsPE5NXyNWXWOEv9K3luBPZii/QG9XveezSogjw\n1BbkM+irDa0k6rP9V9g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "menudord@river-freedom-454912-e0.iam.gserviceaccount.com",
+  "client_id": "118344979831664915021",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/menudord%40river-freedom-454912-e0.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
