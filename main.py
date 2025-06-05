@@ -13,4 +13,5 @@ try:
     print(data)
 except gspread.SpreadsheetNotFound:
     print("Spreadsheet 'Учебная таблица' not found or not accessible by the service account.")
+#тест
 
